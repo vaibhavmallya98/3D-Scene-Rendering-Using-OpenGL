@@ -1,6 +1,6 @@
 # 3D-Scene-Rendering-Using-OpenGL
 
-## Program to load and render 3D objects on the screen. The animated 3D objects must move around at random and rotate randomly about an axis. The objects must collide off each other and bounce off the floor. 
+Program to load and render 3D objects on the screen. The animated 3D objects must move around at random and rotate randomly about an axis. The objects must collide off each other and bounce off the floor. 
 Instructions:
 1. Create an oversized floor with a textured image
 2. Objects move only when “g” key is pressed
