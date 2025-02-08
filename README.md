@@ -1,5 +1,6 @@
 # 3D-Scene-Rendering-Using-OpenGL
 
+Final Project pdf contains all the instructions. 
 This is a C++ and OpenGL Program to load and render 3D objects on the screen. The animated 3D objects move around at random and rotate randomly about an axis. The objects collide off each other and bounce off the floor. 
 Instructions:
 1. Create an oversized floor with a textured image
